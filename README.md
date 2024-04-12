@@ -12,10 +12,10 @@ Xu, Lijun, and Graeme Henkelman. “Adaptive Kinetic Monte Carlo for First-Princ
 # Logos and Acknowledgements
 
 ## HITS Logo
-<img src="https://github.com/ehhartmann/huenfeld/assets/69237857/ebed2273-0c94-453a-8ac3-0fd8381da0d6" width="400" height="200">
+<img src="https://github.com/ehhartmann/huenfeld/assets/69237857/ebed2273-0c94-453a-8ac3-0fd8381da0d6" width="400">
 
 ## University Heidelberg Logo
-<img src="https://github.com/ehhartmann/huenfeld/assets/69237857/1bd30351-3b31-44b8-89ed-fc9d01b0cb11" width="300" height="200">
+<img src="https://github.com/ehhartmann/huenfeld/assets/69237857/1bd30351-3b31-44b8-89ed-fc9d01b0cb11" width="400">
 
 ## Acknowledgements
 
