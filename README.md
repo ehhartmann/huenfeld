@@ -3,11 +3,11 @@ Andersen, Mie, Chiara Panosetti, and Karsten Reuter. “A Practical Guide to Sur
 
 Anderson, David F. “A Modified next Reaction Method for Simulating Chemical Systems with Time Dependent Propensities and Delays.” The Journal of Chemical Physics 127, no. 21 (December 7, 2007): 214107. [https://doi.org/10.1063/1.2799998](https://doi.org/10.1063/1.2799998).
 
-Chill, Samuel T., and Graeme Henkelman. “Molecular Dynamics Saddle Search Adaptive Kinetic Monte Carlo.” The Journal of Chemical Physics 140, no. 21 (June 7, 2014): 214110. https://doi.org/10.1063/1.4880721.
+Chill, Samuel T., and Graeme Henkelman. “Molecular Dynamics Saddle Search Adaptive Kinetic Monte Carlo.” The Journal of Chemical Physics 140, no. 21 (June 7, 2014): 214110. [https://doi.org/10.1063/1.4880721](https://doi.org/10.1063/1.4880721).
 
-Gillespie, Daniel T. “Exact Stochastic Simulation of Coupled Chemical Reactions.” The Journal of Physical Chemistry 81, no. 25 (December 1977): 2340–61. https://doi.org/10.1021/j100540a008.
+Gillespie, Daniel T. “Exact Stochastic Simulation of Coupled Chemical Reactions.” The Journal of Physical Chemistry 81, no. 25 (December 1977): 2340–61. [https://doi.org/10.1021/j100540a008](https://doi.org/10.1021/j100540a008).
 
-Xu, Lijun, and Graeme Henkelman. “Adaptive Kinetic Monte Carlo for First-Principles Accelerated Dynamics.” The Journal of Chemical Physics 129, no. 11 (September 21, 2008): 114104. https://doi.org/10.1063/1.2976010.
+Xu, Lijun, and Graeme Henkelman. “Adaptive Kinetic Monte Carlo for First-Principles Accelerated Dynamics.” The Journal of Chemical Physics 129, no. 11 (September 21, 2008): 114104. [https://doi.org/10.1063/1.2976010](https://doi.org/10.1063/1.2976010).
 
 # Logos and Acknowledgements
 
